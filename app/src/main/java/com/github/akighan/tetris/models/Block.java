@@ -9,6 +9,7 @@ import com.github.akighan.tetris.constants.FieldConstants;
 
 import java.util.Random;
 
+//TODO p.126
 public class Block {
     private int shapeIndex;
     private int frameNumber;
